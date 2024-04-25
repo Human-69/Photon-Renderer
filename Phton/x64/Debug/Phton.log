@@ -1,0 +1,26 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Renderer.cpp
+D:\Photon\PhotonRenderer\Phton\src\Renderer.cpp(59,43): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Photon\PhotonRenderer\Phton\src\Renderer.cpp(72,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Utils.cpp
+D:\Photon\PhotonRenderer\Phton\src\Utils.cpp(79,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Photon\PhotonRenderer\Phton\src\Utils.cpp(80,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Photon\PhotonRenderer\Phton\src\Utils.cpp(83,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Photon\PhotonRenderer\Phton\src\Utils.cpp(84,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Photon\PhotonRenderer\Phton\src\Utils.cpp(85,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Photon\PhotonRenderer\Phton\src\Utils.cpp(86,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+kernel32.lib(KERNEL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+user32.lib(USER32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+gdi32.lib(GDI32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+winspool.lib(WINSPOOL.DRV) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+comdlg32.lib(COMDLG32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+advapi32.lib(ADVAPI32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+shell32.lib(SHELL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+ole32.lib(ole32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+oleaut32.lib(OLEAUT32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+odbc32.lib(ODBC32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+assimp-vc143-mtd.lib(assimp-vc143-mtd.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+  Phton.vcxproj -> D:\Photon\RendererTest\Dependencies\PhotonRenderer\lib\Photon.lib
+  A subdirectory or file D:\Photon\RendererTest\Dependencies\PhotonRenderer\include already exists.
+          1 file(s) copied.
